@@ -2,3 +2,4 @@
 ./src/ru_ru.dic
 ./src/Russian.dic
 ./src/russian-aot.dic
+./src/russian-words.txt
